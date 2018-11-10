@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+This repository is created to execute tutorials.
